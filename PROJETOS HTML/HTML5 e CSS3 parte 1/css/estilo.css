@@ -1,0 +1,44 @@
+.titulo-principal {
+    padding-left: 20px;
+}
+
+#img-camecalho {
+    width: 100%;
+}
+
+.principal {
+    background-color: #CCCCCC;
+    padding: 30px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+} 
+
+p{
+    text-align: center;
+    color: brown;
+}
+
+p strong{
+    color: rgb(192, 35, 35);
+}
+
+.beneficios {
+    background-color: #fff;
+    margin: 20px;
+}
+
+.beneficios ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.itens {
+    font-style: italic;
+}
+
+.imgDiferencial {
+    width: 50%;
+}
